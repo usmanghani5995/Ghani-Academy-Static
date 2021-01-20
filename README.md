@@ -1,1 +1,1 @@
-# LearnWebCode
+# Ghani Academy Starter Code
